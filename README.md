@@ -23,6 +23,8 @@
 </div>
 
 <p align="center">
+  <br>
+  <br>
   💼 Habilidades: <strong>HTML5, CSS3, Javascript, Adobe XD, GitHub, Photoshop.</strong>
 </p>
 
@@ -31,7 +33,7 @@
 </p>
 
 <p align="center">
-  💌 Fale comigo: ⤵️
+  💌 Quer entrar em contato comigo? ⤵️
 </p>
 
 <p align="center">
