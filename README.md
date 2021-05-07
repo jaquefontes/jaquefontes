@@ -4,11 +4,6 @@
 
 </span>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/fsbKeqwwkmE6LodM3T/giphy.gif" width="200px" />
-
-</div>
 
 <br>
 
@@ -20,6 +15,12 @@
     <br>
     <strong>Analítica, criativa com perfil generalista.</strong> 
 </p>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/fsbKeqwwkmE6LodM3T/giphy.gif" width="200px" />
+
+</div>
 
 <p align="center">
   💼 Habilidades: <strong>HTML5, CSS3, Javascript, Adobe XD, GitHub, Photoshop.</strong>
